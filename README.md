@@ -1,5 +1,5 @@
-# Note App made in Flutter with Sqlite database 
- This is a note app made with flutter.<br>
+# Note App
+ This is a note app made with flutter + local storage (sqllite database)<br>
 ## Concepts used:
 <ul>
 <li>Sqlite database to store custom Note object.</li>
