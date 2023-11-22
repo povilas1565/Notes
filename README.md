@@ -4,6 +4,9 @@
 <ul>
 <li>Sqlite database to store custom Note object.</li>
 <li>Search Functionality</li>
+<li>Add Notes</li>
+<li>Edit Notes</li>
+<li>Delete Notes</li>
 <li>Staggered GridView</li>
 </ul>
 
