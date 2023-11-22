@@ -8,7 +8,7 @@
 </ul>
 
 
-Screenshots:<br>
+Example Screenshots:<br>
 <table style={border:"none"}><tr>
 <td><img src="https://user-images.githubusercontent.com/29589003/57538958-2ae63100-7369-11e9-9efc-102497249cdd.png" alt="Screenshot 2"/></td>
 <td><img src="https://user-images.githubusercontent.com/29589003/57538952-29b50400-7369-11e9-9b42-6a5770cb18e6.png" alt="Screenshot 1"/></td>
